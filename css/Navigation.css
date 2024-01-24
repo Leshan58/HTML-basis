@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyv4JFGLfaMV99VLNvo8qWPJR7MlV4DdR7w&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "MS PGothic";
+    font-size: large;
+    text-align: center;}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    display: block;
+    text-decoration: none;
+    color: crimson;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #00ff00;
+}
+li a:hover{
+    background-color: aqua;
+}
